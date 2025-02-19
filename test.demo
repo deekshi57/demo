@@ -4,8 +4,7 @@ stack.append('a')
 stack.append('b')
 stack.append('c')
 
-print('Ini
-tial stack')
+print('Initial stack')
 print(stack)
 print("\nElement popped from stack:")
 print(stack.pop())
